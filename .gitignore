@@ -202,3 +202,5 @@ alsoft.ini
 
 dev/
 build/
+
+bazel*
